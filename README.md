@@ -8,7 +8,7 @@ A fun little plugin to `Say Hi to [TheWPCrowd](https://www.thewpcrowd.com/)`.
 Just download the latest release and install it as a WordPress plugin.
 
 ## Members 
-> #HiRoy #HiChris #HiNick #HiMatt #HiJosh #HiJean #HiMaxime #HiBrian #HiLucas #HiShawn #HiChristopher #HiTheresa #HiMeagan #HiCarl #HiChris #HiJason #HiJesse #HiKate #HiAwais #HiMichele #HiShelly #HiJordan #HiAndrew
+> `#HiRoy #HiChris #HiNick #HiMatt #HiJosh #HiJean #HiMaxime #HiBrian #HiLucas #HiShawn #HiChristopher #HiTheresa #HiMeagan #HiCarl #HiChris #HiJason #HiJesse #HiKate #HiAwais #HiMichele #HiShelly #HiJordan #HiAndrew`
 
 ## Changelog
 
