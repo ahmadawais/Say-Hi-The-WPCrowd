@@ -1,6 +1,10 @@
+![img](https://i.imgur.com/CZKNitB.png)
+
+
 # Say-Hi-The-WPCrowd
 
 A fun little plugin to `Say Hi to TheWPCrowd`.
+
 
 ![img](https://i.imgur.com/R4hLwdF.gif)
 
