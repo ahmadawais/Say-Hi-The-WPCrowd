@@ -1,0 +1,1500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"HT",
+				"HTWPC_DIR"
+			],
+			[
+				"npf",
+				"npfunction_wp_func\tWordPress Function"
+			],
+			[
+				"che",
+				"checkout_id"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"chec",
+				"checkout"
+			],
+			[
+				"np",
+				"npxdebug\tXdebug Project Settings"
+			],
+			[
+				"even",
+				"eventData"
+			],
+			[
+				"conl",
+				"console.log()"
+			],
+			[
+				"npwpen",
+				"npwp_enqueue_script\tWordPress Enqueue Script"
+			],
+			[
+				"npcl",
+				"npcfunction_wp_func_class\tWordPress Function for Class"
+			],
+			[
+				"shor",
+				"shortcode\tShortcode"
+			],
+			[
+				"npc",
+				"npclass_wp\tWordPress Class"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"npd",
+				"npxdebug\tXdebug Project Settings"
+			],
+			[
+				"vda",
+				"$vr_destination_array〔variable〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"arr",
+				"array〔function〕"
+			],
+			[
+				"Vaca",
+				"VacationRentals"
+			],
+			[
+				"W",
+				"WordPress"
+			],
+			[
+				"the",
+				"theme"
+			],
+			[
+				"dotfi",
+				"dotfiles"
+			],
+			[
+				"do",
+				"dotfile"
+			],
+			[
+				"docu",
+				"Documents"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ahmadawais/Documents/Web/Dev/local.dev/wp-content/plugins/hi-the-wpcrowd/htwpc.php",
+			"settings":
+			{
+				"buffer_size": 1031,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "init.php",
+			"settings":
+			{
+				"buffer_size": 817,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class-htwpc-lines.php",
+			"settings":
+			{
+				"buffer_size": 1409,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.php",
+			"settings":
+			{
+				"buffer_size": 735,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ran",
+				"Random:Letters and numbers"
+			],
+			[
+				"synma",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"gis",
+				"Gist: Create Private Gist"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"xdbg",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"clear",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"step",
+				"Xdebug: Breakpoint - Step Over"
+			],
+			[
+				"watch",
+				"Xdebug: Set Watch Expression"
+			],
+			[
+				"xdg",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"n",
+				"ANF: New File"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"wowr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sulin",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"synm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"lint user ",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"style",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"cstan",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"markd",
+				"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Light"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown ed",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"mark user",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"convsp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"insk",
+				"Install Package Control"
+			],
+			[
+				"synbash",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 678.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ahmadawais/Documents/Web/Dev/local.dev/wp-content/plugins/hi-the-wpcrowd",
+		"/Users/ahmadawais/Documents/Web/Dev/local.dev/wp-content/plugins/hi-the-wpcrowd/components"
+	],
+	"file_history":
+	[
+		"/Users/ahmadawais/Documents/Web/Dev/local.dev/wp-content/plugins/hi-the-wpcrowd/componenets/dump.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-config.php",
+		"/Users/ahmadawais/Desktop/licesnse.txt",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/index.php",
+		"/Users/ahmadawais/Documents/Web/Sandbox/bash/wp-config.php",
+		"/Users/ahmadawais/Desktop/Editor-meeting-notes-2017-02-22.md ",
+		"/Users/ahmadawais/.zshrc",
+		"/var/folders/d9/9rhym7md3pgd8cyrf3hhjdzh0000gn/T/rsub-g_q6uf/ee-config.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/class-em-enqueue.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/class-register.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/css/style.css",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/view-register.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/js/custom/paddle-button.js",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/js/custom/login-register-reset.js",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/class-reset.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/class-login.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/paddle/view-paddle-button.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/easy-membership.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/class-member.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-config.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-includes/class-wp-hook.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-includes/plugin.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-settings.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-includes/class-wp.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-includes/functions.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-blog-header.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-includes/wp-db.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/em.sublime-project",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/init.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/paddle/paddle-init.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/paddle/class-em-paddle.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/view-login.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/view-paddle-button.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/css/partials/_base.scss",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/composer.json",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/view-reset.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/css/style.scss",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/view-submit-post.php",
+		"/Users/ahmadawais/Documents/Web/Dev/teach.dev/wp-content/plugins/easy-membership/lib/view-edit-profile.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/vrc-init.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/class-scripts.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/mkdocs.yml",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/destinations.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/features.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/progress.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/types.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/installation.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/edit-profile.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/rentals-list.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/rentals-search.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/favorite.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/reset.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/register.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/homepage.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/login.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/README.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/agents.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/gulpfile.js",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/functions.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/css/style.scss",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/style.css",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/vr.sublime-project",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/page-dump.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/partial/template/homepage/destination/four.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/partial/template/homepage/homepage-destination.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/css/partials/_structure.scss",
+		"/Users/ahmadawais/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/functions/class-theme-functions.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/admin/setup/ocdi/ocdi-init.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/css/partials/_debug.scss",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/header.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/customizer/customizer-init.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/customizer/section/vr_section_header.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/admin/tgmpa/tgmpa-init.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/footer.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/functions/vr-template-functions.php",
+		"/Users/ahmadawais/Library/Application Support/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/partial/template/homepage/tandn/tandn-testimonial.php",
+		"/Users/ahmadawais/Library/Application Support/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/Users/ahmadawais/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/themes/vr/assets/partial/template/homepage/homepage-cta-section-two.php",
+		"/Users/ahmadawais/Downloads/index.html",
+		"/Users/ahmadawais/Downloads/Phoenix Startup/HTML5/Phoenix_advanced/src/templates/Phoenix-Startup-UI-Kit-sample-01.jade",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/settings/class-vr-settings.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/meta-boxes/meta-box/inc/fields/taxonomy-advanced.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/admin/admin-menu-order.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/template/homepage/class-destination-fields.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/template/homepage/class-bookingform-fields.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/vrc.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/template/homepage/class-homepage-meta-boxes.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/template/homepage/class-cta-fields.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/admin/ocdi/ocdi-init.php",
+		"/var/folders/d9/9rhym7md3pgd8cyrf3hhjdzh0000gn/T/rsub-48j30x/.zshrc",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/admin/ocdi/demo1/demo1-init.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/rental/class-rental-meta-boxes.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/rental/class-get-rental.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/booking/class-booking-meta-boxes.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/booking/booking-init.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/booking/cpt-booking.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vr.dev/wp-content/plugins/vrcore/assets/class-vr-admin-menu.php",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/customization.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/rentals.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/index.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/setup.md",
+		"/Users/ahmadawais/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/ahmadawais/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/ahmadawais/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/about.md",
+		"/Users/ahmadawais/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/eg.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/mkdocs-material/material/partials/header.html",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/CNAME",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/docs/demo.md",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/mkdocs-material/material/partials/footer.html",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/mkdocs-material/src/base.html",
+		"/Users/ahmadawais/Documents/Web/Dev/vrdoc.dev/mkdocs-material/docs/extensions/footnotes.md",
+		"/usr/local/bin/stargaze",
+		"/Users/ahmadawais/Desktop/tree_out",
+		"/Users/ahmadawais/Documents/Web/Bash/ptcli/ptcli.sh",
+		"/Users/ahmadawais/Documents/Web/Bash/ptcli/CHANGELOG.md",
+		"/Users/ahmadawais/Documents/Web/Bash/ptcli/README.md",
+		"/Users/ahmadawais/ptcli",
+		"/Users/ahmadawais/Documents/Web/Dev/writy.dev/wp-content/plugins/writy/writy/logic.php",
+		"/Users/ahmadawais/Documents/Web/Dev/writy.dev/wp-content/plugins/writy/writy/js/app.js",
+		"/Users/ahmadawais/Documents/Web/Dev/writy.dev/wp-content/plugins/writy/writy/css/style.css",
+		"/Users/ahmadawais/Documents/Web/Dev/writy.dev/wp-content/plugins/writy/writy/template/image.php",
+		"/Users/ahmadawais/Documents/Web/Dev/writy.dev/wp-content/plugins/writy/plugin.php",
+		"/Users/ahmadawais/Documents/Web/Dev/writy.dev/wp-content/plugins/writy/writy/template/write.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"componenets",
+			"txt",
+			"_TXT",
+			"Text ",
+			"Text",
+			"<a ",
+			"#Hi",
+			"lyrics",
+			"<span style=\"font-weight: 400;\">",
+			" wpsucli ",
+			"wpsucli",
+			"SOURCE",
+			"pwd",
+			"greenb",
+			"reset",
+			"blackf",
+			"whiteb",
+			"wpsuall",
+			"<a",
+			"afercia",
+			"empireoflight",
+			"robin416",
+			"@\n",
+			"@",
+			"@:",
+			"sweetAlert",
+			"error",
+			"get_the_title",
+			"message",
+			"if(",
+			"data",
+			"eventCallback",
+			"login",
+			"EM_Enquque",
+			"(data)",
+			"')",
+			"('",
+			"em_paddle_button",
+			"vr_",
+			"lib",
+			"login",
+			"CHECKOUT_SETUP_JS",
+			".js",
+			"check_webhook_signature",
+			"em_member",
+			"enqueue",
+			"em_dn",
+			"ajax_login",
+			"/assets/",
+			"VRC_",
+			"tgmpa",
+			" ",
+			"feature",
+			"FEATURES",
+			"destination",
+			"DESTINATIONS",
+			"— ",
+			"- ",
+			"** ",
+			"Description",
+			"Parent",
+			"?**",
+			"RENTALS LIST",
+			"USER FAVORITES",
+			"RESET",
+			"REGISTER",
+			"LOGIN",
+			".md",
+			":",
+			"FAVORITE",
+			"register",
+			"login",
+			"        ",
+			"FEATURED RENTALS",
+			"Featured Rentals",
+			"FEATURED RENTALS",
+			"STEPS",
+			"STPES",
+			"Steps",
+			"STEPS",
+			"Steps",
+			"Destination",
+			"DESTINATION",
+			"Destination",
+			"32",
+			"wpds",
+			"twentysixteen",
+			"twentyseventeen",
+			"wordpress",
+			" Wordpress ",
+			"wordpress",
+			"wordpres",
+			"Wordpress",
+			"wordpress",
+			"Wordpress",
+			"_is_vr",
+			"vr_pd_img",
+			"vr_option_name",
+			"vr_pd_img",
+			"vr_pd_image",
+			"$vr_term_obj->term_id",
+			"vr_term_id",
+			"pre",
+			"get_destination",
+			"vr_taxonomy_image",
+			"vr_credits",
+			"vr_hide_footer_social",
+			"vr_footer_logo",
+			"vr_cta_btn_url",
+			"vr_hide_footer_cta",
+			"vr_phone",
+			"No Email.",
+			"the_query",
+			"nav_menu_items",
+			"demo3",
+			"3",
+			"VRFooter_Nav_Menu",
+			"VRPrimary_Nav_Menu",
+			"Primary",
+			"VRPrimary_Nav_Menu",
+			"primary",
+			"Primary",
+			"primary",
+			"Primary",
+			"primary",
+			"$vr_ttml_img_url",
+			"')",
+			"ldev"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"em_",
+			"/",
+			"EM_",
+			"VR_Footer_Nav_Menu",
+			"VR_Header_Nav_Menu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ahmadawais/Documents/Web/Dev/local.dev/wp-content/plugins/hi-the-wpcrowd/htwpc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"function_name_status_row": 2,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "init.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								817
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"function_name_status_row": -1,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 187.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "class-htwpc-lines.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1392,
+										1393
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										238,
+										239
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"function_name_status_row": 23,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 297.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										695,
+										696
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										543,
+										544
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"function_name_status_row": 32,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "htwpc.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"wpsucli.sh"
+			],
+			[
+				"cr",
+				"lib/class-register.php"
+			],
+			[
+				"en",
+				"lib/class-em-enqueue.php"
+			],
+			[
+				"vr",
+				"lib/view-register.php"
+			],
+			[
+				"pad",
+				"js/custom/paddle-button.js"
+			],
+			[
+				"lo",
+				"js/custom/login-register-reset.js"
+			],
+			[
+				"cres",
+				"lib/class-reset.php"
+			],
+			[
+				"cl",
+				"lib/class-login.php"
+			],
+			[
+				"in",
+				"lib/init.php"
+			],
+			[
+				"cem",
+				"lib/class-member.php"
+			],
+			[
+				"em",
+				"easy-membership.php"
+			],
+			[
+				"p",
+				"js/custom/paddle-button.js"
+			],
+			[
+				"vp",
+				"paddle/view-paddle-button.php"
+			],
+			[
+				"cm",
+				"lib/class-member.php"
+			],
+			[
+				"vl",
+				"lib/view-login.php"
+			],
+			[
+				"v",
+				"lib/view-login.php"
+			],
+			[
+				"mem",
+				"lib/class-member.php"
+			],
+			[
+				"sc",
+				"assets/class-scripts.php"
+			],
+			[
+				"vri",
+				"assets/vrc-init.php"
+			],
+			[
+				"mk",
+				"mkdocs.yml"
+			],
+			[
+				"pr",
+				"docs/progress.md"
+			],
+			[
+				"ty",
+				"docs/types.md"
+			],
+			[
+				"fe",
+				"docs/features.md"
+			],
+			[
+				"e",
+				"docs/edit-profile.md"
+			],
+			[
+				"de",
+				"docs/destinations.md"
+			],
+			[
+				"rs",
+				"docs/rentals-search.md"
+			],
+			[
+				"ed",
+				"docs/edit-profile.md"
+			],
+			[
+				"rl",
+				"docs/rentals-list.md"
+			],
+			[
+				"fa",
+				"docs/favorite.md"
+			],
+			[
+				"res",
+				"docs/reset.md"
+			],
+			[
+				"reg",
+				"docs/register.md"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"h",
+				"docs/homepage.md"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"tgm",
+				"assets/admin/tgmpa/tgmpa-init.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"deb",
+				"assets/css/partials/_debug.scss"
+			],
+			[
+				"oc",
+				"assets/admin/setup/ocdi/ocdi-init.php"
+			],
+			[
+				"str",
+				"assets/css/partials/_structure.scss"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"ct",
+				"assets/functions/class-theme-functions.php"
+			],
+			[
+				"four",
+				"assets/partial/template/homepage/destination/four.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"cu",
+				"assets/customizer/customizer-init.php"
+			],
+			[
+				"d",
+				"page-dump.php"
+			],
+			[
+				"du",
+				"page-dump.php"
+			],
+			[
+				"pd",
+				"page-dump.php"
+			],
+			[
+				"ocdi",
+				"assets/admin/setup/ocdi/ocdi-init.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"tt",
+				"assets/partial/template/homepage/tandn/tandn-testimonial.php"
+			],
+			[
+				"hd",
+				"assets/partial/template/homepage/homepage-destination.php"
+			],
+			[
+				"settin",
+				"assets/settings/class-vr-settings.php"
+			],
+			[
+				"menu",
+				"assets/admin/admin-menu-order.php"
+			],
+			[
+				"ta",
+				"assets/meta-boxes/meta-box/inc/fields/taxonomy-advanced.php"
+			],
+			[
+				"des",
+				"assets/template/homepage/class-destination-fields.php"
+			],
+			[
+				"vrci",
+				"assets/vrc-init.php"
+			],
+			[
+				"homme",
+				"assets/template/homepage/class-homepage-meta-boxes.php"
+			],
+			[
+				"vin",
+				"assets/vrc-init.php"
+			],
+			[
+				"bok",
+				"assets/booking/cpt-booking.php"
+			],
+			[
+				"bome",
+				"assets/booking/class-booking-meta-boxes.php"
+			],
+			[
+				"renm",
+				"assets/rental/class-rental-meta-boxes.php"
+			],
+			[
+				"ren",
+				"docs/rentals.md"
+			],
+			[
+				"c",
+				"docs/customization.md"
+			],
+			[
+				"ag",
+				"docs/agents.md"
+			],
+			[
+				"pro",
+				"docs/progress.md"
+			],
+			[
+				"cus",
+				"docs/customization.md"
+			],
+			[
+				"a",
+				"docs/about.md"
+			],
+			[
+				"foo",
+				"mkdocs-material/material/partials/footer.html"
+			],
+			[
+				"bas",
+				"mkdocs-material/src/base.html"
+			],
+			[
+				"fo",
+				"mkdocs-material/docs/extensions/footnotes.md"
+			],
+			[
+				"js",
+				"writy/js/app.js"
+			],
+			[
+				"wr",
+				"writy/template/write.php"
+			],
+			[
+				"pl",
+				"plugin.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"fss_on_full_screen": true
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
