@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Say Hi to TheWPCrowd #HiTWPC
- * Plugin URI: http://AhmadAwais.com/
+ * Plugin URI: https://ahmda.ws/Say-Hi-The-WPCrowd
  * Description: Say #Hi to the members of `TheWPCrowd`.
  * Author: mrahmadawais, WPTie
  * Author URI: http://AhmadAwais.com/
