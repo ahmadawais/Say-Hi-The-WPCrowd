@@ -53,6 +53,7 @@ if ( ! class_exists( 'HTWPC_Lines' ) ) {
 				'Awais'       => 'MrAhmadAwais',
 				'Michele'     => 'Michele_Butcher',
 				'Shelly'      => 'SpinBird',
+				'Adam'        => 'wpmodder',
 				// 'Jordan'   => 'jrdn_qntl', // No Twitter account.
 				// 'Andrew'   => 'bamadesigner', // No Twitter account.
 			);
