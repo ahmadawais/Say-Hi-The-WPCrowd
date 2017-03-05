@@ -1,9 +1,10 @@
-![img](https://i.imgur.com/CZKNitB.png)
-
+![img](https://i.imgur.com/Jb2hfY0.png)
 
 # Say-Hi-The-WPCrowd
 
-A fun little plugin to `Say Hi to TheWPCrowd`.
+A fun little plugin to `Say Hi to TheWPCrowd`. 
+
+🎯 Replace this plugin with `Hello Dolly` and make WordPress great again. 
 
 
 ![img](https://i.imgur.com/R4hLwdF.gif)
