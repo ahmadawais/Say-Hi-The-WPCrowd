@@ -48,7 +48,6 @@ if ( ! class_exists( 'HTWPC_Lines' ) ) {
 				'Carl'        => 'twigpress',
 				'Chris'       => 'chriswiegman',
 				'Jason'       => 'gopostmatic',
-				'Jesse'       => 'jpetersen',
 				'Kate'        => '2fishweb',
 				'Awais'       => 'MrAhmadAwais',
 				'Michele'     => 'Michele_Butcher',
